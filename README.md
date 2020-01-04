@@ -1,7 +1,6 @@
 # 2huMeta
 
 Metadata-adder for the more obscure music out there-- Touhou doujin music.
-
 * Supports MP3/MP4 files
 * Comes with filename parser
 * Data scraped from thwiki.cc/
