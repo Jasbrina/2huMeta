@@ -5,7 +5,7 @@ Metadata-adder for the more obscure music out there-- Touhou doujin music.
 * Comes with filename parser
 * Data scraped from thwiki.cc/
 
-#### Note: thwiki.cc/ is currently updating their site. Until maintenance is completed on Jan/05/2020, this script will not work properly. Please wait until after then to use this. :)
+#### Note: thwiki.cc/ is currently updating their site. Until maintenance is completed on Jan/07/2020, this script will not work properly. Please wait until after then to use this. :)
 
 ## Example
 
